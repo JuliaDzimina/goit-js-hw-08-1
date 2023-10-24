@@ -23,7 +23,7 @@ function creatMarkup(arr) {
     captionsData: "alt",
     captionPosition: "bottom",
     captionDelay: "250ms",
-    overlayOpacity: "0.8",
+    overlayOpacity: "0.3",
     
   });
 
