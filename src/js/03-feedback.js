@@ -17,7 +17,7 @@ elemForm .form.addEventListener('submit', evt => {
   evt.preventDefault();
   localStorage.removeItem(KEY);
   evt.currentTarget.reset();
-  console.log(elemForm);
+  console.log(formData);
   
 });
 
